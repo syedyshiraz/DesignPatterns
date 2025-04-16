@@ -114,3 +114,11 @@ In Entity interface write the behaviour and in EntityType which implements Entit
 > Factory Pattern is like a smart assistant.  
 > You just say **what** you want, and it knows **how** to get the right object for you — without telling you the details.
 
+---
+
+<br>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/syedyshiraz" target="_blank">syedyshiraz</a>
+</p>
+
