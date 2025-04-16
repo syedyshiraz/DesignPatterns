@@ -70,3 +70,8 @@ For example:
 
 ---
 
+<br>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/syedyshiraz" target="_blank">syedyshiraz</a>
+</p>
