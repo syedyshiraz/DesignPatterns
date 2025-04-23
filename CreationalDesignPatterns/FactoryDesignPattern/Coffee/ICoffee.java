@@ -1,6 +1,6 @@
 package CreationalDesignPatterns.FactoryDesignPattern.Coffee;
 
-public interface Coffee {
+public interface ICoffee {
 
     void brew();
     
