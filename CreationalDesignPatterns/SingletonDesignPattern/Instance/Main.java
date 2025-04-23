@@ -1,4 +1,4 @@
-package CreationalDesignPatterns.SingletonDesignPattern;
+package CreationalDesignPatterns.SingletonDesignPattern.Instance;
 
 class ThreadThree extends Thread{
     public void run()

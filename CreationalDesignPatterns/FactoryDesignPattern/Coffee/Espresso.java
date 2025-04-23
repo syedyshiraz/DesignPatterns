@@ -1,6 +1,6 @@
 package CreationalDesignPatterns.FactoryDesignPattern.Coffee;
 
-public class Espresso implements Coffee {
+public class Espresso implements ICoffee {
 
     @Override
     public void brew() {
